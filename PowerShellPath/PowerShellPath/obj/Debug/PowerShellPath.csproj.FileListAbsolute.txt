@@ -1,8 +1,0 @@
-C:\Source\Test\PowerShellPath\PowerShellPath\bin\Debug\PowerShellPath.exe.config
-C:\Source\Test\PowerShellPath\PowerShellPath\bin\Debug\PowerShellPath.exe
-C:\Source\Test\PowerShellPath\PowerShellPath\bin\Debug\PowerShellPath.pdb
-C:\Source\Test\PowerShellPath\PowerShellPath\bin\Debug\System.Management.Automation.dll
-C:\Source\Test\PowerShellPath\PowerShellPath\obj\Debug\PowerShellPath.csprojResolveAssemblyReference.cache
-C:\Source\Test\PowerShellPath\PowerShellPath\obj\Debug\PowerShellPath.exe
-C:\Source\Test\PowerShellPath\PowerShellPath\obj\Debug\PowerShellPath.pdb
-C:\Source\Test\PowerShellPath\PowerShellPath\bin\Debug\TestPath.ps1
